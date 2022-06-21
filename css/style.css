@@ -1,0 +1,112 @@
+.header{
+    min-height: 100px;
+    background-color: rgb(248, 188, 109);
+}
+
+.container{
+    border: 3px dotted black;
+    overflow: hidden;
+}
+
+.contact{
+    min-height: 100px;
+    width:50%;
+    background-color: #f15959;
+    float: left;
+}
+
+.blog{
+    min-height: 100px;
+    width:50%;
+    background-color: #9e3737;
+    float: right;
+}
+
+    /**************************/
+.wrapper{
+    border: 5px dotted rgb(57, 57, 240);
+    overflow: hidden;
+}
+
+.box{
+    min-height: 100px;
+    width: 20%;
+    float:left;
+}
+
+.red{
+   background-color: rgba(117, 10, 10, 0.911);
+}
+
+.green{
+    background-color: rgba(82, 230, 95, 0.911);
+}
+
+.blue{
+    background-color: rgba(135, 71, 240, 0.911);
+}
+
+.yellow{
+    background-color: rgba(200, 211, 52, 0.911);
+}
+
+.pink{
+    background-color: rgba(199, 38, 164, 0.911);
+}
+          
+        /*************************/
+.wrapper2{
+    border: 5px dashed rgb(209, 14, 128);
+    overflow: hidden;
+}
+
+.box1{
+    min-height: 100px;
+    width: 10%;
+    float:left;
+}
+
+.color{
+   background-color: rgba(135, 143, 23, 0.911);
+}
+
+.color1{
+    background-color: rgba(8, 75, 14, 0.911);
+}
+
+.color2{
+    background-color: rgba(48, 4, 4, 0.911);;
+}
+
+.color3{
+    background-color:rgba(243, 116, 116, 0.911) ;
+}
+
+.color4{
+    background-color: rgba(88, 5, 70, 0.911);
+}
+
+.color5{
+    background-color: rgba(69, 5, 170, 0.911);
+ }
+ 
+ .color6{
+     background-color: rgba(129, 26, 107, 0.911);
+ }
+ 
+ .color7{
+     background-color: rgba(135, 71, 240, 0.911);
+ }
+ 
+ .color8{
+     background-color: rgba(73, 78, 3, 0.911);
+ }
+ 
+ .color9{
+     background-color:rgba(82, 230, 95, 0.911)  ;
+ }
+
+.footer{
+    min-height: 100px;
+    background-color: #ee9929;
+}
